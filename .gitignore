@@ -1,0 +1,8 @@
+test.csv
+test*
+.ipynb_checkpoints/
+Haploview.jar
+*.jpg
+logs/
+save_models/
+linear_model_logs/
